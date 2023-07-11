@@ -70,7 +70,7 @@ const ComfrimOtp = () => {
               Comfirm OTP
             </button>
             <p class="text-sm mb-10 mt-5">
-              Didn't get a code?
+              Didnt get a code?
               <span class="text-primary cursor-pointer">resend</span>
             </p>
           </div>

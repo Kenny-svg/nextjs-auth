@@ -94,7 +94,7 @@ const ServiceProvider = () => {
               className="text-primary focus:ring-3 focus:ring-primary"
             />
             <p className="text-sm">
-              I agree to Dutiful's{" "}
+              I agree to Dutifuls{" "}
               <span className="text-primary">terms and conditions</span>
             </p>
           </span>
